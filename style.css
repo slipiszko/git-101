@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+#logo {
+	height: 400px;
+	width: 600px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
